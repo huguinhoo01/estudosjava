@@ -12,3 +12,5 @@ SistemaNotas.java => Aqui, eu fiz/não fiz um sistema de notas, onde você inser
 SistemaPares.java => Aqui, você consegue inserir todos os numeros que você quer consultar se é par ou impar colocando no Array das variáveis. (Usei um pouco de IA também).
 
 VerifySystem.java => Esse projeto aqui foi o que mais me deixou alegre, porque fiz quase SEM NENHUMA ajuda de IA. Enfim, aqui ele verifica sua idade e eventualmente se você for maior de idade, ele libera seu acesso, caso contrário, não.
+
+SystemLogin.java => Ele tem objetivo de verificar a senha definida em uma Var de Senha correta, e depois ir para o dashboard integrado. Enfim, estou evoluindo!
